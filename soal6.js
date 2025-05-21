@@ -11,3 +11,5 @@ for (let i = 0; i < x.length; i++){
     hasil = Math.abs(sukuA - sukuB)
 }
 console.log(hasil)
+
+//belajar github
